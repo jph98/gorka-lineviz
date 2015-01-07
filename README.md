@@ -1,5 +1,5 @@
-html5-visualisation-lines
-=========================
+lines-visualisation
+===================
 
 Visualisation for a matrix of cogs that turn through the following states:
 
